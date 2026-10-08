@@ -26,7 +26,7 @@ Precisa de Python com `pip install fastapi uvicorn`. Ligue em **Ajustes → Serv
 
 ## Site
 
-Documentação e detalhes técnicos: https://lively-limit-2e6f.bluepadog.workers.dev/
+Documentação e detalhes técnicos: https://hidden-paper-b1a2.bluepadog.workers.dev/
 
 ## Licença
 
